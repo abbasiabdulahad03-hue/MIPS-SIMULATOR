@@ -1,0 +1,10 @@
+# PyMIPS32 Studio — Python 3.9+
+# Core: tkinter (stdlib)
+#
+# Optional — Oracle Database authentication:
+#   pip install oracledb
+#   set ORACLE_DSN=localhost:1521/XEPDB1
+#   set ORACLE_USER=your_user
+#   set ORACLE_PASSWORD=your_password
+#
+# Without Oracle, SQLite local auth is used automatically.
